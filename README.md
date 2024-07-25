@@ -20,21 +20,23 @@
 
   <h2>✨ 기능구현</h2>
    📝<strong>게시판 공통</strong><br>
-  1. 게시판의 성격에 따라 관리자와 일반직원의 기능을 구분했습니다. <br>
+    1. 게시판의 성격에 따라 관리자와 일반직원의 기능을 구분했습니다. <br>
   <img src="https://github.com/user-attachments/assets/276529eb-79fb-40e6-a48d-7eebb1303362" width="50%">
- <br>
-  2. 게시글 작성시 유효성 검사를 통해 잘못된 정보 전달을 방지했습니다.<br>
-   <img src="https://github.com/user-attachments/assets/b988e485-2f42-404c-97af-2e67616c3d71" width="50%"><br>
-  3. 관리자의 편의를 위해 게시글 목록 내 수정, 삭제버튼을 구현했습니다.<br>
+ <br><br>
+    2. 게시글 작성시 유효성 검사를 통해 잘못된 정보 전달을 방지했습니다.<br>
+   <img src="https://github.com/user-attachments/assets/b988e485-2f42-404c-97af-2e67616c3d71" width="50%"><br><br>
+    3. 관리자의 편의를 위해 게시글 목록 내 수정, 삭제버튼을 구현했습니다.<br>
   
-  
-<br><br>
+  <br><br><br>
+
     📝<strong>FAQ 게시판</strong><br>
   1. 편의성을 위해 게시글 상세보기 형식이 아닌 슬라이드탭을 이용해 목록을 구현했습니다.<br>
-  <img src="https://github.com/user-attachments/assets/b60785f3-c6e1-4396-b8b0-8296ffc62920" width="50%"><br>
+  <img src="https://github.com/user-attachments/assets/b60785f3-c6e1-4396-b8b0-8296ffc62920" width="50%"><br><br>
   2. 각 부서별로 FAQ 내용을 확인할 수 있도록 분류하고, 검색기능을 추가했습니다.
-  <img src="https://github.com/user-attachments/assets/7d375d0e-d734-4472-a58d-8b316942cbee" width="50%"> 
-<br><br>
+  <img src="https://github.com/user-attachments/assets/7d375d0e-d734-4472-a58d-8b316942cbee" width="50%"> <br>
+
+  <br><br><br>
+  
    📝<strong>공지사항 게시판</strong><br>
   1. 체크박스 선택시, 게시글 목록에서 중요 표시와 함께 게시글 상단에 고정되도록 구현했습니다.<br>
   2. 파일을 첨부할 수 있도록 input창을 활용하였고, 용량이 커질 것을 대비해 최대 5개까지로 제한을 걸어두었습니다.<br>
