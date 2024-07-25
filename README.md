@@ -20,7 +20,7 @@
 
   <h2>✨ 기능구현</h2>
    📝<strong>게시판 공통</strong>
-   <br>
+   <br><br>
     1. 게시판의 성격에 따라 관리자와 일반직원의 기능을 구분했습니다. <br>
   <img src="https://github.com/user-attachments/assets/276529eb-79fb-40e6-a48d-7eebb1303362" width="50%">
  <br><br>
