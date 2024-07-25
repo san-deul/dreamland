@@ -43,9 +43,12 @@
   5. 수정시 게시글의 내용과 파일을 불러와 변경가능토록 구현했습니다.
 
   <div style="display:flex">
-  <img src="https://github.com/user-attachments/assets/7af45a5c-37c7-4a62-99aa-140720fb1a7a">
-  <img src="https://github.com/user-attachments/assets/bc93836a-cd44-41ac-b96d-a034bbc9861a">
-  <img src="https://github.com/user-attachments/assets/2bffec4a-d8c0-4252-80ed-1ab712004a86">
+  <img src="https://github.com/user-attachments/assets/7af45a5c-37c7-4a62-99aa-140720fb1a7a" width="50%"><br>
+    <공지사항 게시글 목록>
+  <img src="https://github.com/user-attachments/assets/bc93836a-cd44-41ac-b96d-a034bbc9861a" width="50%"><br>
+    <공지사항 게시글 작성>
+  <img src="https://github.com/user-attachments/assets/2bffec4a-d8c0-4252-80ed-1ab712004a86" width="50%"><br>
+    <공지사항 게시글 상세보기>
     </div>
   <br><br>
   **<strong>익명 게시판</strong><br>
