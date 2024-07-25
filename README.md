@@ -17,7 +17,7 @@
   · 데이터베이스 : Oracle SQL Developer<br>
   · 서버 : Tomcat 9.0<br>
   · 버전관리 : Git, GitHub
-
+  <br><br>
   <h2>✨ 기능구현</h2>
    📝<strong>게시판 공통</strong>
    <br><br>
@@ -40,7 +40,7 @@
   <br><br><br>
   
    📝<strong>공지사항 게시판</strong>
-   <br>
+   <br><br>
     1. 체크박스 선택시, 게시글 목록에서 중요 표시와 함께 게시글 상단에 고정되도록 구현했습니다.<br>
     2. 파일을 첨부할 수 있도록 input창을 활용하였고, 용량이 커질 것을 대비해 최대 5개까지로 제한을 걸어두었습니다.<br>
     3. 파일을 첨부한 경우, 게시글 제목 옆 첨부파일 아이콘을 표시했습니다.<br>
@@ -59,11 +59,24 @@
     
   <br><br>
    📝<strong>익명 게시판</strong>
-   <br>
+   <br><br>
     1. 무한 스크롤을 사용해서 15개씩 목록이 나타나도록 구현했습니다.<br>
     2. 게시글 작성에 summernote에디터를 이용했습니다.<br>
     3. 게시글, 댓글 작성 시 추후 본인확인을 위해 AESUtils를 이용해 비밀번호를 암호화, 복호화 처리해서 구현했습니다.<br>
     4. 게시글 수정시 비밀번호를 변경할 수 있도록 구현하고, 변경하지 않는다면 원래의 비밀번호가 DB에 들어가도록 구현했습니다.<br>
     5. 본인 삭제시 화면에는 삭제되었다는 문구가 뜨지만 DB에는 저장시켜놓았고, 관리자 삭제시 영구 삭제토록 구현했습니다.
+
+  <strong><center>익명게시판 게시글 목록▼</center></strong><br>
+  <img src="https://github.com/user-attachments/assets/226396b7-b145-499b-b28b-bfa5553d578b" width="50%"><br>
+  
+  <strong>익명게시판 게시글 작성▼</strong><br>
+  <img src="https://github.com/user-attachments/assets/6b71e8ce-b999-4d77-bb7a-f33c992ad1e9" width="50%"><br>
+  
+  <strong>익명게시판 게시글 상세보기▼</strong><br>
+  <img src="https://github.com/user-attachments/assets/216940d3-aee6-41b8-b085-00d40d19e976" width="50%"><br>
+  
+  <strong>익명게시판 게시글 상세보기 댓글▼</strong><br>
+  <img src="https://github.com/user-attachments/assets/e612dd02-f1c9-4d60-a06c-65406a078ed1" width="50%"><br>
+
   
 </html>
