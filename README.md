@@ -12,7 +12,7 @@
   
   <h2>✨ 사용기술</h2>
   · 개발환경 : WindowsOS / STS4 <br>
-  · 개발언어: HTML5 / CSS3 /jQuery / JavaScript / JAVA<br>
+  · 개발언어: HTML5 / CSS3 /jQuery / JavaScript / JAVA<br> 
   · 프레임워크 : Spring<br>
   · 데이터베이스 : Oracle SQL Developer<br>
   · 서버 : Tomcat 9.0<br>
