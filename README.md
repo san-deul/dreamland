@@ -21,7 +21,7 @@
   <h2>✨ 기능구현</h2>
    **<strong>게시판 공통</strong><br>
   1. 게시판의 성격에 따라 관리자와 일반직원의 기능을 구분했습니다. <br>
-  <img src="https://github.com/user-attachments/assets/276529eb-79fb-40e6-a48d-7eebb1303362">
+  <img src="https://github.com/user-attachments/assets/276529eb-79fb-40e6-a48d-7eebb1303362" width="50%">
  <br>
   2. 게시글 작성시 유효성 검사를 통해 잘못된 정보 전달을 방지했습니다.<br>
    <img src="https://github.com/user-attachments/assets/b988e485-2f42-404c-97af-2e67616c3d71"><br>
