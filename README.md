@@ -21,10 +21,12 @@
   <h2>✨ 기능구현</h2>
    **<strong>게시판 공통</strong><br>
   1. 게시판의 성격에 따라 관리자와 일반직원의 기능을 구분했습니다. <br>
-  ![readme공통1](https://github.com/user-attachments/assets/73296a82-09a6-465d-bd7a-3a79ba4decdd)
+  ![readme공통1](https://github.com/user-attachments/assets/276529eb-79fb-40e6-a48d-7eebb1303362)
+
  <br>
   2. 게시글 작성시 유효성 검사를 통해 잘못된 정보 전달을 방지했습니다.<br>
-  ![readme공통2](https://github.com/user-attachments/assets/c874c656-15ac-4d9a-8ba1-7fcf081feca8)<br>
+  ![readme공통2](https://github.com/user-attachments/assets/b988e485-2f42-404c-97af-2e67616c3d71)
+<br>
   3. 관리자의 편의를 위해 게시글 목록 내 수정, 삭제버튼을 구현했습니다.<br>
   
   
