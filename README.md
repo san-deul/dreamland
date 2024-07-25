@@ -42,7 +42,7 @@
   4. 원하는 첨부파일을 클릭하거나, 모두 다운로드 버튼을 클릭하면 zip파일 형태로 한번에 다운받을 수 있도록 구현했습니다.<br>
   5. 수정시 게시글의 내용과 파일을 불러와 변경가능토록 구현했습니다.
 
-  <div>
+  <div style="display:flex">
   <img src="https://github.com/user-attachments/assets/7af45a5c-37c7-4a62-99aa-140720fb1a7a">
   <img src="https://github.com/user-attachments/assets/bc93836a-cd44-41ac-b96d-a034bbc9861a">
   <img src="https://github.com/user-attachments/assets/2bffec4a-d8c0-4252-80ed-1ab712004a86">
