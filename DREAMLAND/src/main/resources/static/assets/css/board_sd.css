@@ -226,7 +226,7 @@ width:90%;overflow:hidden;
   ===========================*/
 
 
-#blind-board{padding-bottom:50px !important;position:relative;}
+#blind-board{padding-bottom:150px !important;position:relative;}
 #blind-list-table tbody td:first-child{padding-left:14px;}
 
 #blind-list-table tr{text-align:center;}
