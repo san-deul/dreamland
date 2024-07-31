@@ -6,7 +6,7 @@
 <c:set var="dt" value="<%=System.currentTimeMillis()%>" />
 <c:set var="loginEmployee"
 		value="${sessionScope.SPRING_SECURITY_CONTEXT.authentication.principal.employeeDto }" />
-
+<jsp:include page="../../layout/header.jsp" />
 <!-- link -->
 <link rel="stylesheet" href="/resources/assets/css/board_sd.css" />
 <link
@@ -18,7 +18,7 @@
 		src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
 
 
-<jsp:include page="../../layout/header.jsp" />
+
 
 <!-- summernote -->
 <!-- include summernote css/js -->
